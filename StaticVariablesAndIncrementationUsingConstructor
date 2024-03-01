@@ -1,0 +1,15 @@
+Use constructors for incrementations
+Implement a Person class with a static variable personCounter that increments each time the constructor is called. Include a static method printCounter() to display the counter value 
+Implement a Department class with a static variable numberOfWorker to track the number of workers across all instances of the class.  Use the constructor to increment the count
+Implement a Student class with a static variable totalStudents to track the total number of students across all instances of the class.
+Implement a BankAccount class with a static variable totalAccounts to track the total number of accounts across all instances of the class.
+Implement a Car class with a static variable totalCars to track the total number of cars across all instances of the class.
+Implement a LibraryBook class with a static variable totalBooks to track the total number of books across all instances of the class.
+Implement a HotelRoom class with a static variable totalRooms to track the total number of rooms across all instances of the class.
+Implement a RestaurantTable class with a static variable totalTables to track the total number of tables across all instances of the class.
+Implement a MovieTicket class with a static variable totalTickets to track the total number of tickets across all instances of the class.
+Implement a FlightSeat class with a static variable totalSeats to track the total number of seats across all instances of the class.
+Implement a SportsTeam class with a static variable totalPlayers to track the total number of players across all instances of the class.
+Implement a SchoolClassroom class with a static variable totalStudents to track the total number of students across all instances of the class.
+Implement a UniversityDepartment class with a static variable totalStudents to track the total number of students across all instances of the class.
+Implement a HospitalWard class with a static variable totalPatients to track the total number of patients across all instances of the class.
