@@ -26,7 +26,7 @@ class Superhero extends MovieCharacter {
 }
 
 // Main class to demonstrate inheritance
-public class MovieCharactersDemo {
+ class MovieCharactersDemo {
     public static void main(String[] args) {
         Superhero ironMan = new Superhero("Iron Man", "Repulsor Beams");
         ironMan.introduce();
